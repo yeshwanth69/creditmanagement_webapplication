@@ -1,6 +1,6 @@
 HI there my name is Buggaveeti yeshwanth and i created this web application for #TSF(grip).!
 and i hosted it on =) https://creditmana.000webhostapp.com/yeshwanthbug/  and you can find my code in git repository with the 
- name yeshwanth69/creditweb. and you can get acces to my code with .sql file as i leave it the repository 
+   https://github.com/yeshwanth69/creditmanagement_webapplication  . (gitid =yeshwanth69) and you can get acces to my code with .sql file as i leave it the repository 
 
 
 https://creditmana.000webhostapp.com/yeshwanthbug/
